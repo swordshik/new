@@ -66,9 +66,3 @@ The following 10 functionalities were essential for project completion:
     - Password protection
     - Input sanitization
     - Access control by user type
-
-## Installation
-1. Ensure Python 3.8+ is installed
-2. Install required packages:
-   ```bash
-   pip install PyQt6
